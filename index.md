@@ -1,5 +1,9 @@
 ---
 layout: home
-title: Bengill Abides
-subtitle: Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
+title: Ben Gill
+logo: "/assets/img/logo.jpg"
 ---
+
+_“I'm the Dude. So that's what you call me. You know, that or, uh, His Dudeness, or uh, Duder, or El Duderino if you're not into the whole brevity thing.”_
+
+Some call me the Dude, others Ben. However you address me, I'm a veteran copywriter & stringer hailing from Southern California with nearly a decade of combined experience crafting cutting-edge, insightful and entertaining content for commercial clients of all sizes. My diverse portfolio includes the likes of Patagonia, Smartshoot, Arc'teryx, LEVEL, Al-Jazeera English and Vice News. Whether it’s written or visual, digital or print, I’ve got your bases covered.
