@@ -79,7 +79,7 @@
           {% assign image = site.data.contact.image | relative_url %}
           <span class="image main"><img src="{{image}}" alt="" /></span>
           <p>{{site.data.contact.description | markdownify}}</p>
-          <form method="post" action="#">
+          <form method="post" action="https://formsubmit.co/{{site.email}}">
             <div class="fields">
               <div class="field half">
                 <label for="name">Name</label>
